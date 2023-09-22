@@ -1,5 +1,14 @@
 # p5.js Template
 
+
+Need randam size circles
+Use random() to make sure the random size and random shift
+based on the reference page, "random()* any number" = random in this range
+therefore, let ellipse's xpos and ypos add random() to make the position random, and let the random() to make the size random.
+
+
+
+
 This is a README file that can be used to describe and document your assignment.
 
 Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
